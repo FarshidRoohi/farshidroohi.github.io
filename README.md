@@ -4,5 +4,5 @@
 
 ----
 ### Screen Shot
-![Screen Shot](http://farshid-roohi.ir/img/webite%20my.png)
+![Screen Shot](http://farshid-roohi.ir/img/cv-template.png)
 
