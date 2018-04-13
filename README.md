@@ -1,9 +1,4 @@
 # portfolio-Website
 ## Farshid Roohi portfolio website
-<a href="http://farshid-roohi.ir">link website</a><br>
-
-----
-### Screen Shot
-![Screen Shot](http://farshid-roohi.ir/img/cv-template.png)
-
-----
+<a href="http://farshid-roohi.ir">CV</a><br><hr>
+<a href="https://farshidroohi.github.io/">CV</a>
